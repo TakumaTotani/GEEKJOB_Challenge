@@ -1,0 +1,11 @@
+１、パソコンの基礎知識
+課題
+自分のPCスペックを調べる
+Mac OS Sierra Ver:10.12.2
+MacBookAir13-inch 
+プロセッサ:1.4Ghz Intel core i5
+メモリ：4GB 1600MHz DDR3 
+グラフィックス：Intel HD Graphics 5000 1536MB
+HDD:容量、120.14GB 空き容量、77.98GB
+
+
