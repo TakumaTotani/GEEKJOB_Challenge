@@ -14,9 +14,7 @@ function profile($keyword){
 
   foreach ($profiles as $value) {
 
-    // in_array($keyword,$value[1]);
-    // if(in_array($keyword,$value[1])){
-    // }
+    
 
       if(in_array($keyword, $value)){
         return $value;
@@ -28,7 +26,12 @@ function profile($keyword){
 
 }
 
-var_dump(profile('ハナコ'));
+// var_dump(profile('ハナコ'));
+$value = profile('タクマ');
+
+foreach ($value as $v) {
+  echo $v ."<br>";
+}
 
 
 
