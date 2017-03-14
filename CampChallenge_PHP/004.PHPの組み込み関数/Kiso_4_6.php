@@ -1,6 +1,6 @@
 <?php
 
-echo substr('t.totani08307@gmail.com',14);
+echo strstr('t.totani08307@gmail.com','@');
 
 
 
