@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+    <title>テストフォーム</title>
+  </head>
+  <body>
+    <form action="./Kiso_5_1.php" method="get">
+    Name:<input type="text" name="txtName">
+    Gender: Man<input type="radio"  name="txtGender" value="Man" >
+    Woman<input type="radio"  name="txtGender" value="Woman" >
+    Hobby: <select name="txtHobby">
+           <option>movie appreciation</option>
+           <option>music appreciation</option>
+           <option>play sports</option>
+           <option>shopping</option>
+           </select>
+       <input type="submit" name="btnSubmit">
+     </form>
+   </body>
+   </html>
